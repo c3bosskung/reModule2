@@ -5,7 +5,8 @@
 
 ## โดยที่ method ดังนี้
     - constructor(name)
-        - กำหนด id ให้เป็น running number(ใช้ static) (แบบว่า ไม่ต้องรับมาค่ามาจาก constructor ให้เลขรันเพิ่มไปเอง) โดยเริ่มที่ 1
+        - กำหนด id ให้เป็น running number(ใช้ static) 
+        (แบบว่า ไม่ต้องรับมาค่ามาจาก constructor ให้เลขรันเพิ่มไปเอง) โดยเริ่มที่ 1
         - กำหนด name ชือ โดยมีค่าเริ่มต้นเป็น 'N/A'
         - ให้ Wishlist  โดยกำหนดค่าเริ่มต้นเป็น empty array
     - getId 
